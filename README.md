@@ -1,16 +1,15 @@
-### Hi there 👋
+Olá, eu sou o Eduardo Melo 👋
 
-<!--
-**edumeloo1/edumeloo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando com: Gerente de projetos/Análista de Requisitos
+- 🌱 Atualmente estou estudando: Flutter
+- 📫 Contate-me no e-mail: melo.eduardo.ti@gmail.com
+- 😄 Pronouns: Ele/dele
 
-Here are some ideas to get you started:
+--------------------------------- / / ----------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Eduardo Melo 👋
+
+- 🔭 I’m currently working on: Project Manager / Requirements Analyst
+- 🌱 I’m currently learning: Flutter
+- 📫 How to reach me: melo.eduardo.ti@gmail.com
+- 😄 Pronouns: Him/his
